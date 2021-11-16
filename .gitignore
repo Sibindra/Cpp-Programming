@@ -1,0 +1,9 @@
+# ignore .exe and .out files
+*.exe
+*.out
+
+# files to ignore
+.vscode
+test.cpp
+Revision
+test
