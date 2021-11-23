@@ -7,3 +7,6 @@
 test.cpp
 Revision
 test
+
+# ignore gitignore
+.gitignore
